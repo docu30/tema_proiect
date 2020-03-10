@@ -1,0 +1,137 @@
+[
+  {
+    "customer_name": "Hădade Adela",
+    "customer_adress": "Bloc G26, Str. Dezrobirii, Ap. 17",
+    "neighborhood": "Rovine",
+    "pizza_name": "Margherita",
+    "lat": "44.320329",
+    "lng": "23.822852",
+    "order_amount": 28
+  },
+  {
+    "customer_name": "Arganeşciuc Mihai",
+    "customer_adress": "Bloc A5a, Bld 1Mai, Ap. 6",
+    "neighborhood": "1 Mai",
+    "pizza_name": "Margherita",
+    "lat": "44.303965",
+    "lng": "23.795630",
+    "order_amount": 15
+  },
+  {
+    "customer_name": "Teodorescu Alina",
+    "customer_adress": "Bloc C8, Str. Brazda lui Novac, Ap. 10",
+    "neighborhood": "Brazda lui Novac",
+    "pizza_name": "Capriciosa",
+    "lat": "44.328004",
+    "lng": "23.800429",
+    "order_amount": 20
+  },
+  {
+    "customer_name": "Marin Alexandru",
+    "customer_adress": "Bloc 164 I, Bld. Oltenia, Ap. 19",
+    "neighborhood": "Craiovita Noua",
+    "pizza_name": "Kebab",
+    "lat": "44.336668",
+    "lng": "23.770367",
+    "order_amount": 23
+  },
+  {
+    "customer_name": "Bucur Marian",
+    "customer_adress": "Bloc R2, Str. Doljului, Ap. 2",
+    "neighborhood": "Brazda lui Novac",
+    "pizza_name": "Salami",
+    "lat": "44.330211",
+    "lng": "23.794968",
+    "order_amount": 20
+  },
+  {
+    "customer_name": "Goran Cătălin",
+    "customer_adress": "Bloc M16A, Str. Calea Bucuresti, Ap. 2",
+    "neighborhood": "Centru",
+    "pizza_name": "Diavolo",
+    "lat": "44.318832",
+    "lng": "23.805734",
+    "order_amount": 28
+  },
+  {
+    "customer_name": "Niţă Sorin",
+    "customer_adress": "Bloc 102, Str. George Enescu, Ap. 12",
+    "neighborhood": "Craiovita Noua",
+    "pizza_name": "Prosciutto",
+    "lat": "44.332920",
+    "lng": "23.781423",
+    "order_amount": 17
+  },
+  {
+    "customer_name": "Năstasă Adrian",
+    "customer_adress": "Strada Gheorghe Doja, nr. 35",
+    "neighborhood": "1 Mai",
+    "pizza_name": "Qutro Stagioni",
+    "lat": "44.309374",
+    "lng": "23.796057",
+    "order_amount": 23
+  },
+  {
+    "customer_name": "Potcoavă Ioan",
+    "customer_adress": "Bloc 21-21, Str. Maramures, Ap. 3",
+    "neighborhood": "Rovine",
+    "pizza_name": "Qutro Stagioni",
+    "lat": "44.324827",
+    "lng": "23.817488",
+    "order_amount": 28
+  },
+  {
+    "customer_name": "Radu Daniel",
+    "customer_adress": "Bloc 157A, Bld. Tineretului, Ap. 15",
+    "neighborhood": "Craiovita Noua",
+    "pizza_name": "Funghi",
+    "lat": "44.337002",
+    "lng": "23.774846",
+    "order_amount": 27
+  },
+  {
+    "customer_name": "Voila Daniel",
+    "customer_adress": "Bloc 21-33, Str. Nicolae Iorga, Ap. 14",
+    "neighborhood": "Rovine",
+    "pizza_name": "Romana",
+    "lat": "44.323453",
+    "lng": "23.818593",
+    "order_amount": 28
+  },
+  {
+    "customer_name": "Pora Gabriel",
+    "customer_adress": "Bloc M14, Str. A.I. Cuza, Ap. 20",
+    "neighborhood": "Centru",
+    "pizza_name": "Bianco",
+    "lat": "44.318007",
+    "lng": "23.803363",
+    "order_amount": 28  
+  },
+  {
+    "customer_name": "Bîrsan Ionuţ",
+    "customer_adress": "Bloc 40A, Calea Unirii, Ap. 15",
+    "neighborhood": "1 Mai",
+    "pizza_name": "Romana",
+    "lat": "44.301654",
+    "lng": "23.798559",
+    "order_amount": 29
+  },
+  {
+    "customer_name": "Robert Dumitru",
+    "customer_adress": "Str. Eugeniu Carada, nr.11",
+    "neighborhood": "Centru",
+    "pizza_name": "Peperoni",
+    "lat": "44.315854",
+    "lng": "23.800729",
+    "order_amount": 28
+  },
+  {
+    "customer_name": "Dima Marius",
+    "customer_adress": "Bloc F12, Str. Opanez, Ap. 8",
+    "neighborhood": "Brazda lui Novac",
+    "pizza_name": "Barbeque Texas",
+    "lat": "44.329961",
+    "lng": "23.791545",
+    "order_amount": 24
+  }
+]

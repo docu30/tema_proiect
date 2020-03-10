@@ -1,0 +1,107 @@
+[
+	{
+		"customer_name": "Arganeşciuc Mihai",
+		"customer_adress": "5353 Nullam St.",
+		"pizza_name": "diam. Pellentesque",
+		"gps_data": "-38.22767, 97.75676",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Bîrsan Ionuţ",
+		"customer_adress": "500 Torquent St.",
+		"pizza_name": "sapien, gravida",
+		"gps_data": "80.70018, -71.84911",
+		"order_amount": 20
+	},
+	{
+		"customer_name": "Năstasă Adrian",
+		"customer_adress": "1871 Amet, Ave",
+		"pizza_name": "molestie dapibus",
+		"gps_data": "-30.98283, -73.66045",
+		"order_amount": 26
+	},
+	{
+		"customer_name": "Teodorescu Alina",
+		"customer_adress": "P.O. Box 180, 9359 Dolor. Ave",
+		"pizza_name": "faucibus. Morbi",
+		"gps_data": "51.91152, -160.05131",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Bucur Marian",
+		"customer_adress": "P.O. Box 256, 281 Neque. St.",
+		"pizza_name": "et magnis",
+		"gps_data": "5.42285, -78.53342",
+		"order_amount": 23
+	},
+	{
+		"customer_name": "Dima Marius",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Marin Alexandru",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Niţă Sorin",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Radu Daniel",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Voila Daniel",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Potcoavă Ioan",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Hădade Adela",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Pora Gabriel",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Goran Cătălin",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	},
+	{
+		"customer_name": "Robert Dumitru",
+		"customer_adress": "Ap #815-3705 In St.",
+		"pizza_name": "purus. Maecenas",
+		"gps_data": "-39.65149, -148.26183",
+		"order_amount": 29
+	}
+]
